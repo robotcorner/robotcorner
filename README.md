@@ -1,4 +1,4 @@
-### Hi there, I'm Stephen 👋
+### Hi there, I'm Stephen
 
 ## About Me
 I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Science degree in Computer Engineering as well as a minor in computer science. I am also an intern at Northrop Grumman for the Summer 2021.
