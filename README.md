@@ -6,7 +6,7 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 ### I’m currently working on: 
 - Finishing my computer engineering degree (and starting senior design!!!).
 - Learning Flutter development, an open source framework for cross platform apps. (in my free time)
-- Finding a job to learn faster, develop more, and love working with the people around me. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. 
+- Finding a job to learn faster, develop more, and love working with the people around me. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
 
 ### Programming opinions:
 - My favorite language is the right one for the job given time and cost contraints. Usually that means I perfer python because I can work faster in it :)
