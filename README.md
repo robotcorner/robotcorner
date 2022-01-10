@@ -15,10 +15,11 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 - I am also facinated with the flutter https://flutter.dev/ programming language and would love to get paid to learn and develop in it. Kotlin has caught my eye too. Seems like there's a multi-platform theme here... 
 - I'm usually not a fan of MATLAB, which I spent multiple semester courses with as well as a whole summer internship where I made GUI in this. Python seems to do much the same and not have a licesne fee (business sense anyone?). The argument comes down to developer speed and cost. Python is competitive enough these days to provide comparable or faster speed of development and no license fees. However MATLAB for signal processing is still cool, and I've used it for such a purpose. I also have completed an internship where I used python, pandas, and DASH with plot.ly to develop a frontend application viewing statistics of data. Python was much less painful and far quicker to develop in with its much larger community support.
 
+## Some Cool Projects
+- [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
+- [Smart Farm](https://github.com/dandeto/Smart-Farm) - Purpose: Education, Culmination of Computer Engineering Skills with Hardware + Software + Teamwork Project
+
 ## Statistics
 [![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotcorner&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Some Cool Projects
-- [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
