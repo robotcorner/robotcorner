@@ -1,10 +1,12 @@
 ### Hi there, I'm Stephen
 
 ## About Me
-I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Science degree in Computer Engineering as well as a minor in computer science. I will graduate in may 2022 with a GPA > 3.8.
+I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Science degree in Computer Engineering as well as a minor in computer science. I will graduate in may 2022 with a GPA > 3.8. I have completed two 3-5 month programming internships in software engineering roles. The first position I was programming primarly in MATLAB, and the second postion I programmed primarily in Python.
 
 ### I’m currently working on: 
-- Finishing my computer engineering degree (and starting senior design!!!).
+- Finishing my computer engineering degree. I'm in my final semester! 
+- Working on a java project with a four person team for class. 
+- Working on a senior design project called [Smart Farm](https://github.com/dandeto/Smart-Farm), which is very cool.
 - Learning Flutter development, an open source framework for cross platform apps. (in my free time)
 - Finding a job to learn faster, develop more, and love working with the people around me. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
 
