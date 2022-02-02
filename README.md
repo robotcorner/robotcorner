@@ -5,8 +5,8 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 
 ### I’m currently working on: 
 - Finishing my computer engineering degree. I'm in my final semester! 
-- Working on a java project with a four person team for class. See [Java Project](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) for details.
-- Working on a senior design project called [Smart Farm](https://github.com/dandeto/Smart-Farm), which is very cool.
+- Working on a java project with a four person team for class. See [Java Project](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) for details. A shortlist of details is provided below.
+- Working on a senior design project called [Smart Farm](https://github.com/dandeto/Smart-Farm), which is very cool. A shortlist of details provided below.
 - Learning Flutter development, an open source framework for cross platform apps. (in my free time)
 - Finding a job to learn faster, develop more, and love working with the people around me. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
 
@@ -18,6 +18,7 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
 - [Smart Farm](https://github.com/dandeto/Smart-Farm) - Purpose: Education, Culmination of Computer Engineering Skills with Hardware + Software + Teamwork Project
+- [My Awesome Movie Library (MAML)](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) - Purpose: Education, Java Improvement with Product Design and Use Case Practice, Scrum, Teamwork
 
 ## Statistics
 [![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=default)](https://github.com/anuraghazra/github-readme-stats)
