@@ -5,7 +5,7 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 
 ### I’m currently working on: 
 - Finishing my computer engineering degree. I'm in my final semester! 
-- Working on a java project with a four person team for class. 
+- Working on a java project with a four person team for class. See [Java Project](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) for details.
 - Working on a senior design project called [Smart Farm](https://github.com/dandeto/Smart-Farm), which is very cool.
 - Learning Flutter development, an open source framework for cross platform apps. (in my free time)
 - Finding a job to learn faster, develop more, and love working with the people around me. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
