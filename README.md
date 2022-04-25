@@ -16,6 +16,7 @@ I am senior at The University of Alabama in Huntsville pursuing a Bachelor of Sc
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
 - [Smart Farm](https://github.com/dandeto/Smart-Farm) - Purpose: Education, Culmination of Computer Engineering Skills with Hardware + Software + Teamwork Project
+- [Smart Farm - Data Viewer](https://github.com/robotcorner/Smart-Farm-Viewer) - Purpose: same as "Smart Farm", and it's for viewing the data interactiely.
 - [My Awesome Movie Library (MAML)](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) - Purpose: Education, Java Improvement with Product Design and Use Case Practice, Scrum, Teamwork
 
 ## Statistics
