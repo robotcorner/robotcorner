@@ -1,7 +1,7 @@
 ### Hi there, I'm Stephen
 
 ## About Me
-I a graduate of the University of Alabama in Huntsville with a Bachelor of Science degree in Computer Engineering as well as a minor in computer science. I graduated in may 2022 with a GPA > 3.8. I have completed two 3-5 month programming internships in software engineering roles. The first position I was programming primarly in MATLAB, and the second postion I programmed primarily in Python.
+I am a graduate of the University of Alabama in Huntsville with a Bachelor of Science degree in Computer Engineering as well as a minor in Computer Science. I graduated in may 2022 with a GPA > 3.8. I have completed two 3-5 month programming internships in software engineering roles. The first position I was programming primarly in MATLAB, and the second postion I programmed primarily in Python.
 
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home.
