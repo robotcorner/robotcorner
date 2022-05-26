@@ -9,9 +9,6 @@ I am a graduate of the University of Alabama in Huntsville with a bachelor of sc
 - Learning Flutter and Dart.js development, an open source framework for cross platform apps.
 - Developing myself. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
 
-### Programming opinions:
-- [REDACTED]
-
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
 - [Smart Farm](https://github.com/dandeto/Smart-Farm) - Purpose: Education, Culmination of Computer Engineering Skills with Hardware + Software + Teamwork Project
