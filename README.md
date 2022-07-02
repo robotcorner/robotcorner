@@ -5,9 +5,8 @@ I am a graduate of the University of Alabama in Huntsville with a bachelor of sc
 
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes, docker, unraid, proxmox VE, etc. I'm learning a lot.
-- Learning Svelte, Sveltekit, TailwindCSS, Supabase as a tech stack, so that I could build a full-stack website.
-- Learning Flutter and Dart.js development, an open source framework for cross platform apps.
-- Developing myself. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I don't code, then my next desire is to lead a team for production of software products.
+- Learning Svelte, Sveltekit, TailwindCSS + Backends as a tech stack, so that I could build a full-stack website.
+- Developing myself. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I'm not coding, then I would like to lead a team that is.
 
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
