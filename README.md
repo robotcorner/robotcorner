@@ -15,6 +15,6 @@ I am a graduate of the University of Alabama in Huntsville with a bachelor of sc
 - [My Awesome Movie Library (MAML)](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) - Purpose: Education, Java Improvement with Product Design and Use Case Practice, Scrum, Teamwork
 
 ## Statistics
-[![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotcorner&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotcorner&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
