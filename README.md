@@ -11,8 +11,9 @@ I like to build things. I love designing, builing, and creating in almost all fo
 - Minor in Computer Science
 
 #### Work Experiences
-- I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
 - I now work full time in software development and data analysis and utilize python almost daily for scripts and automation.
+- I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
+
 
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes systems. I'm learning a lot.
