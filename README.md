@@ -14,11 +14,27 @@ I like to build things. I love designing, builing, and creating in almost all fo
 - I now work full time in software development and data analysis and utilize python almost daily for scripts and automation.
 - I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
 
-
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes systems. I'm learning a lot.
 - Learning Sveltekit, TailwindCSS + Backends as a tech stack, so that I could build a full-stack website.
 - Developing myself physically and mentally.
+
+### Some Skills - not all of them :)
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,matlab,rust,bash,ts,js,nodejs,html,css,svelte,tailwind,md,qt)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite,prisma)](https://skillicons.dev)
+
+#### CI/CD and Containers
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,netlify,vercel,docker,git,gitlab,github,jenkins,kubernetes)](https://skillicons.dev)
+
+#### Familiar Tools
+[![My Skills](https://skillicons.dev/icons?i=discord,vscode,autocad,vite)](https://skillicons.dev)
+
+#### Low-Level / Embedded
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+
 
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
