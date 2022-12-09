@@ -1,12 +1,23 @@
 ### Hi there, I'm Stephen
 
 ## About Me
-I am a graduate of the University of Alabama in Huntsville with a bachelor of science degree in computer engineering as well as a minor in computer science. I graduated in may 2022 with a 3.83 GPA. I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I now work full time in software development and data analysis and utilize python almost daily for scripts and automation.
+I like to build things. I love designing, builing, and creating in almost all forms. 
+
+### Professional
+
+#### School
+- Graduate of University of Alabama in Huntsville 3.8 GPA
+- Bachelor of Science in Computer Engineering
+- Minor in Computer Science
+
+#### Work Experiences
+- I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
+- I now work full time in software development and data analysis and utilize python almost daily for scripts and automation.
 
 ### I’m currently working on: 
-- Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes, docker, unraid, proxmox VE, etc. I'm learning a lot.
-- Learning Svelte, Sveltekit, TailwindCSS + Backends as a tech stack, so that I could build a full-stack website.
-- Developing myself. I want to work on things that matter and be surrounded by great, intelligent, people and mentors. One of my priorities is having the opportunity to get my code reviewed by people smarter than me so I can improve faster than working without feedback. If I'm not coding, then I would like to lead a team that is.
+- Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes systems. I'm learning a lot.
+- Learning Sveltekit, TailwindCSS + Backends as a tech stack, so that I could build a full-stack website.
+- Developing myself physically and mentally.
 
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
