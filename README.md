@@ -5,14 +5,14 @@ I like to build things. I love designing, builing, and creating in almost all fo
 
 ### Professional
 
+#### Work Experiences
+- I now work full time in software development and data analysis and utilize python almost daily for scripts and automation. I have greatly contributed to an automation pipeline. It is primarly written in python, but can be activated via command line or jenkins with additional parameters. It performs a file discovery process, discovers differences from what's been ran already, maintains a colorized error log, and and creates specialized job scripts via a homegrown codegen that are then ran in parallel via jenkins. These scripts are generated because the tools ran are a collection of bash scripts, custom tool scripts, java code, etc. All of these scripts get their arguments pre-populated. Overally this automation pipeline allows the team to perform analysis instead of running tools. Overall this has cut down work from multiple-days per task to being able to run 60+ tasks in a few hours generating 200+ GB of data.
+- I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
+
 #### School
 - Graduate of University of Alabama in Huntsville 3.8 GPA
 - Bachelor of Science in Computer Engineering
 - Minor in Computer Science
-
-#### Work Experiences
-- I now work full time in software development and data analysis and utilize python almost daily for scripts and automation.
-- I have completed two 3-5 month programming internships in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. I also have done a solid amount of IT like tasks in older internship than these.
 
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home. This is my shot at exploring kubernetes systems. I'm learning a lot.
@@ -27,10 +27,10 @@ I like to build things. I love designing, builing, and creating in almost all fo
 [![My Skills](https://skillicons.dev/icons?i=sqlite,prisma)](https://skillicons.dev)
 
 #### CI/CD and Containers
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,netlify,vercel,docker,git,gitlab,github,jenkins,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,github,jenkins,kubernetes)](https://skillicons.dev)
 
 #### Familiar Tools
-[![My Skills](https://skillicons.dev/icons?i=discord,vscode,autocad,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,vscode,autocad)](https://skillicons.dev)
 
 #### Low-Level / Embedded
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
