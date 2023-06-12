@@ -18,8 +18,7 @@ I like to build things. I love designing, builing, and creating in almost all fo
 
 ### I’m currently working on: 
 - Setting up a Homelab / NAS for my home and exploring the options with it. I'm learning a lot about kubernetese as a system as well as networking.
-- Learning SvelteKit tech stack, so that I could build a full-stack website.
-- Developing myself physically and mentally.
+- Exercising and learning from books and podcasts
 
 ## Some Cool Projects
 - [DOCO Sim](https://github.com/robotcorner/CS-307-DOCO-SIM-Semester-Project-Cpp#readme) - Purpose: Education, C++ Improvement with Design Pattern Practice
@@ -28,16 +27,16 @@ I like to build things. I love designing, builing, and creating in almost all fo
 - [My Awesome Movie Library (MAML)](https://github.com/robotcorner/CS-321-JavaTeamProjectTeam10#cs-321-javateamproject---team-10) - Purpose: Education, Java Improvement with Product Design and Use Case Practice, Scrum, Teamwork
 
 ## Statistics
-[![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![robotcorners's github stats](https://github-readme-stats.vercel.app/api?username=robotcorner&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotcorner&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some Skills - not all of them :)
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,matlab,rust,bash,ts,js,nodejs,html,css,svelte,tailwind,md,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,matlab,bash,md,qt)](https://skillicons.dev)
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=sqlite,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,sql)](https://skillicons.dev)
 
 #### CI/CD and Containers
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,github,jenkins,kubernetes)](https://skillicons.dev)
