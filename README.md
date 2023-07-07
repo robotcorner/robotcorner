@@ -6,9 +6,11 @@ I like to build things. I love designing, builing, and creating in almost all fo
 ### Professional
 
 #### Work Experiences
-- **2022 - Current |** I now work full time in software development and data analysis and utilize python almost daily for scripts and automation. I have greatly contributed to an automation pipeline. It is primarly written in python, but can be activated via command line or jenkins with additional parameters. It performs a file discovery process, discovers differences from what's been ran already, maintains a colorized error log, and and creates specialized job scripts via a homegrown codegen that are then ran in parallel via jenkins. These scripts are generated because the tools ran are a collection of bash scripts, custom tool scripts, java code, etc. All of these scripts get their arguments pre-populated. Overall, this automation pipeline allows the team to perform analysis instead of running tools. Work has been cut down work from multiple-days per task to being able to run 60+ tasks in a few hours generating 200+ GB of data.
-- **2020-2021 |** I have completed two 3-5 month programming internships at Northrop Grumman in software engineering roles. The first position I was in had me programming primarly in MATLAB, and the second postion I was in I programmed primarily in Python. 
-- **2019** | I also have done a solid amount of IT like tasks in older intership at JTechData as a private contractor.
+
+- **2023** | Currently employed full-time, leveraging Python, C++, Kubernetes (k8s), and other modern tools.
+- **2022 - 2023** | Held full-time positions in software development and data analysis, demonstrating proficient use of Python on a daily basis for scripting and automation. Played a significant role in enhancing an automation pipeline primarily written in Python, accessible via command line or Jenkins with additional parameters. The pipeline encompasses various functionalities, including file discovery, differential analysis, color-coded error logging, and dynamic generation of specialized job scripts through an in-house code generation system. These job scripts facilitated parallel execution of tasks using Jenkins and HTCondor. The pipeline streamlined the team's workflow, enabling them to focus on analysis rather than tool execution. My contributions resulted in remarkable efficiency gains, reducing multi-day processes to completing over 60 tasks and generating 200+ GB of data within a few hours.
+- **2020-2021 |** Successfully completed two 3-5 month internships at Northrop Grumman, showcasing strong programming skills in software engineering. In the first internship, primarily utilized MATLAB, while in the second internship, focused on Python programming. Received an invitation to return for a subsequent internship.
+- **2019** | Undertook IT-related tasks during an internship at JTechData, operating as a private contractor.
 
 #### School
 - Graduate of University of Alabama in Huntsville w/ 3.8 GPA
@@ -17,7 +19,7 @@ I like to build things. I love designing, builing, and creating in almost all fo
 - Graduate of Summit High School in Spring Hill, TN w/ 4.0 GPA
 
 ### I’m currently working on: 
-- Setting up a Homelab / NAS for my home and exploring the options with it. I'm learning a lot about kubernetese as a system as well as networking.
+- Setting up a Homelab / NAS for my home and exploring the options with it. I'm learning a lot about networking, container systems, and so forth.
 - Exercising and learning from books and podcasts
 
 ## Some Cool Projects
