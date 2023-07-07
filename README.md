@@ -10,7 +10,7 @@ I like to build things. I love designing, builing, and creating in almost all fo
 - **2023** | Currently employed full-time, leveraging Python, C++, Kubernetes (k8s), and other modern tools.
 - **2022 - 2023** | Held full-time position in software development and data analysis and demonstrated proficient use of Python on a daily basis for scripting and automation. Played a significant role in enhancing an automation pipeline primarily written in Python, accessible via command line or Jenkins with additional parameters. The pipeline encompasses various functionalities, including file discovery, differential analysis, color-coded error logging, and dynamic generation of specialized job scripts through an in-house code generation system. These job scripts facilitated parallel execution of tasks using Jenkins and HTCondor. The pipeline streamlined the team's workflow, enabling them to focus on analysis rather than tool execution. My contributions resulted in remarkable efficiency gains, reducing multi-day processes to completing over 60 tasks and generating 200+ GB of data within a few hours.
 - **2020-2021 |** Successfully completed two 3-5 month internships at Northrop Grumman, showcasing strong programming skills in software engineering. In the first internship, primarily utilized MATLAB, while in the second internship, focused on Python programming. Received an invitation to return for a subsequent internship.
-- **2019** | Undertook IT-related tasks during an internship at JTechData, operating as a private contractor.
+- **2019** | Undertook IT-related tasks during an 3 month internship at JTechData, operating as a private contractor.
 
 #### School
 - Graduate of University of Alabama in Huntsville w/ 3.8 GPA
